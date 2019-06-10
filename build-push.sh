@@ -2,7 +2,7 @@
 
 set -eux
 
-tag=${tag:-v0.0.4}
+tag=${tag:-v0.0.5}
 image=mtinny/ubuntu-toolbox:${tag}
 latest_image=mtinny/ubuntu-toolbox:latest
 

@@ -4,3 +4,4 @@
 |v0.0.2|sleep inifinity|
 |v0.0.3|telnet|
 |v0.0.4|netcat net-tools jq vim|
+|v0.0.5|traceroute|
